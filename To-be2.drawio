@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-12T15:01:47.698Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="eFsOy7-iwhzry0o8_bT7" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-12T15:02:24.932Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="uWO_AdIy8uOOFCvsD0r-" version="21.6.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2514" dy="2101" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4412" dy="3149" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -195,6 +195,9 @@
         <mxCell id="0k1aMuxoiW48Gd_AHqqn-94" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0k1aMuxoiW48Gd_AHqqn-64" target="0k1aMuxoiW48Gd_AHqqn-93">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="0k1aMuxoiW48Gd_AHqqn-104" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0k1aMuxoiW48Gd_AHqqn-64" target="0k1aMuxoiW48Gd_AHqqn-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0k1aMuxoiW48Gd_AHqqn-64" value="Sistema" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-735" y="150" width="120" height="60" as="geometry" />
         </mxCell>
@@ -262,6 +265,11 @@
         <mxCell id="0k1aMuxoiW48Gd_AHqqn-100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0k1aMuxoiW48Gd_AHqqn-95" target="0k1aMuxoiW48Gd_AHqqn-99">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="0k1aMuxoiW48Gd_AHqqn-102" value="Nao" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0k1aMuxoiW48Gd_AHqqn-100">
+          <mxGeometry x="0.6017" y="-1" relative="1" as="geometry">
+            <mxPoint y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="0k1aMuxoiW48Gd_AHqqn-95" value="Existe arquivo feito pelo robo ?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-366.5" y="115" width="136.5" height="130" as="geometry" />
         </mxCell>
@@ -270,6 +278,9 @@
         </mxCell>
         <mxCell id="0k1aMuxoiW48Gd_AHqqn-99" value="Sistema avisa que não há relatorio feito" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-130" y="200" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0k1aMuxoiW48Gd_AHqqn-103" value="Envia para o email do usuario" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-735" y="620" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
